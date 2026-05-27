@@ -82,6 +82,8 @@ uv run pytest test_correctness.py -v
 
 This gives a simple pass/fail result for the single example.
 
+<img width="1887" height="400" alt="image" src="https://github.com/user-attachments/assets/211e89f2-0aff-4ad9-8b79-36d6f6d98a5a" />
+
 ## Current limitations
 
 - The repo contains only one static test case.
